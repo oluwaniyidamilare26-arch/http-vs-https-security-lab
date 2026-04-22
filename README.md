@@ -85,7 +85,7 @@ The following changes were observed:
 ![Plaintext Credentials](screenshots/04_plaintext_credentials.png)
 
 **Login Attempts Logged**
-![Login Attempts](screenshots/05_login_attempts_logged.png)
+![Login Attempts](screenshots/05_login_attempt_logged.png)
 
 
 
